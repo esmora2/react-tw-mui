@@ -14,6 +14,7 @@ const products = [
   { id: '3', name: 'Cubo Rojo', price: 49.99, image: producto3 },
   { id: '4', name: 'Cubo Azul', price: 59.99, image: producto4 },
   { id: '5', name: 'Cubo Cobre', price: 69.99, image: producto5 },
+  { id: '6', name: 'Cubo Plata', price: 79.99, image: product1 },
 ];
 
 function HomePage() {
